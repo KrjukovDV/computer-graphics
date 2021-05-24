@@ -1,3 +1,3 @@
 Лабораторная работа №3 Дыдыкин Коробейников Крюков
 
-https://disk.yandex.ru/i/JJnldt2Ng84Kcg
+https://drive.google.com/file/d/1T5AR7DaI72a8N7yWeOgk3eFb61bGl4as/view?usp=sharing
