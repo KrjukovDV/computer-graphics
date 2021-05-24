@@ -1,0 +1,17 @@
+C:\Users\Xiaomi\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Xiaomi\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Xiaomi\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Xiaomi\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\OpenTK.dll
+C:\Users\Xiaomi\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Xiaomi\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\OpenTK.pdb
+C:\Users\Xiaomi\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\OpenTK.xml
+C:\Users\Xiaomi\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\OpenTK.dll.config
+C:\Users\Xiaomi\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Xiaomi\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Xiaomi\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Xiaomi\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Xiaomi\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CopyComplete
+C:\Users\Xiaomi\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Xiaomi\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
