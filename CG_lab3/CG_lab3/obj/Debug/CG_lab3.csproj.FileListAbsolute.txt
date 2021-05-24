@@ -1,0 +1,17 @@
+C:\Users\Xiaomi\Desktop\CG_lab3\CG_lab3\obj\Debug\CG_lab3.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\CG_lab3\CG_lab3\obj\Debug\CG_lab3.Properties.Resources.resources
+C:\Users\Xiaomi\Desktop\CG_lab3\CG_lab3\obj\Debug\CG_lab3.csproj.GenerateResource.cache
+C:\Users\Xiaomi\Desktop\CG_lab3\CG_lab3\obj\Debug\CG_lab3.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\CG_lab3\CG_lab3\bin\Debug\CG_lab3.exe.config
+C:\Users\Xiaomi\Desktop\CG_lab3\CG_lab3\bin\Debug\CG_lab3.exe
+C:\Users\Xiaomi\Desktop\CG_lab3\CG_lab3\bin\Debug\CG_lab3.pdb
+C:\Users\Xiaomi\Desktop\CG_lab3\CG_lab3\bin\Debug\OpenTK.dll
+C:\Users\Xiaomi\Desktop\CG_lab3\CG_lab3\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Xiaomi\Desktop\CG_lab3\CG_lab3\bin\Debug\OpenTK.pdb
+C:\Users\Xiaomi\Desktop\CG_lab3\CG_lab3\bin\Debug\OpenTK.xml
+C:\Users\Xiaomi\Desktop\CG_lab3\CG_lab3\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Xiaomi\Desktop\CG_lab3\CG_lab3\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Xiaomi\Desktop\CG_lab3\CG_lab3\obj\Debug\CG_lab3.Form1.resources
+C:\Users\Xiaomi\Desktop\CG_lab3\CG_lab3\obj\Debug\CG_lab3.csproj.CopyComplete
+C:\Users\Xiaomi\Desktop\CG_lab3\CG_lab3\obj\Debug\CG_lab3.exe
+C:\Users\Xiaomi\Desktop\CG_lab3\CG_lab3\obj\Debug\CG_lab3.pdb
